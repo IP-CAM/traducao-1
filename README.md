@@ -13,9 +13,9 @@ da instalação de seu OpenCart sobrescrevendo todos arquivos que já existem.
 
 Créditos:
 
-Manoel Vidal
-Macapá-AP/Brasil
-www.opencartbrasil.com.br
-www.opencartbrasil.com.br/forum
-www.facebook.com/opencartbrasil
+Manoel Vidal<br />
+Macapá-AP/Brasil<br />
+www.opencartbrasil.com.br<br />
+www.opencartbrasil.com.br/forum<br />
+www.facebook.com/opencartbrasil<br />
 www.twitter.com/opencartbrasil
