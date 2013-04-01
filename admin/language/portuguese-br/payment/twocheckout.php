@@ -5,7 +5,7 @@ $_['heading_title']      = '2Checkout';
 // Text 
 $_['text_payment']       = 'Formas de Pagamento';
 $_['text_success']       = 'Módulo 2Checkout modificado com sucesso!';
-$_['text_twocheckout']	 = '<a onclick="window.open(\'https://www.2checkout.com/2co/affiliate?affiliate=1596408\');"><img src="view/image/payment/2checkout.png" alt="2Checkout" title="2Checkout" style="border: 1px solid #EEEEEE;" /></a>';
+$_['text_twocheckout']	 = '<a href="https://www.2checkout.com/2co/affiliate?affiliate=1596408" target="_blank"><img src="view/image/payment/2checkout.png" alt="2Checkout" title="2Checkout" style="border: 1px solid #EEEEEE;" /></a>';
 
 // Entry
 $_['entry_account']      = 'ID 2Checkout:';
@@ -15,7 +15,7 @@ $_['entry_total']        = 'Total Mínimo:<br /><span class="help">Total mínimo
 $_['entry_order_status'] = 'Situação do Pedido:';
 $_['entry_geo_zone']     = 'Região Geográfica:';
 $_['entry_status']       = 'Situação:';
-$_['entry_sort_order']   = 'Ordem:';
+$_['entry_sort_order']   = 'Ordem de Exibição:';
 
 // Error
 $_['error_permission']   = 'Atenção: Você não possui permissão para modificar o módulo 2Checkout!';

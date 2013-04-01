@@ -29,8 +29,8 @@ $_['column_action']		  = 'Ação';
 $_['entry_name']          = 'Opção:';
 $_['entry_type']          = 'Tipo:';
 $_['entry_image']         = 'Imagem:';
-$_['entry_value']         = 'Valor da Opção:';
-$_['entry_sort_order']    = 'Ordem:';
+$_['entry_option_value']  = 'Valor da Opção:';
+$_['entry_sort_order']    = 'Ordem de Exibição:';
 
 // Error
 $_['error_permission']    = 'Atenção: Você não tem permissão para modificar as opções!';

@@ -5,7 +5,7 @@ $_['heading_title']			  = 'Moneybookers';
 // Text
 $_['text_payment']			  = 'Formas de Pagamento';
 $_['text_success']			  = 'Módulo Moneybookers modificado com sucesso.';
-$_['text_moneybookers']	      = '<a onclick="window.open(\'https://www.moneybookers.com/partners/?p=OpenCart\');"><img src="view/image/payment/moneybookers.png" alt="Moneybookers" title="Moneybookers" style="border: 1px solid #EEEEEE;" /></a>';
+$_['text_moneybookers']	      = '<a href="https://www.moneybookers.com/partners/?p=OpenCart" target="_blank"><img src="view/image/payment/moneybookers.png" alt="Moneybookers" title="Moneybookers" style="border: 1px solid #EEEEEE;" /></a>';
 	
 // Entry
 $_['entry_email']			  = 'E-mail:';
@@ -18,7 +18,7 @@ $_['entry_failed_status']	  = 'Situação do Pedido com Falha:';
 $_['entry_chargeback_status'] = 'Situação do Pedido Devolvido:';
 $_['entry_geo_zone']		  = 'Região Geográfica:';
 $_['entry_status']			  = 'Situação:';
-$_['entry_sort_order']		  = 'Ordem:';
+$_['entry_sort_order']		  = 'Ordem de Exibição:';
 
 // Error
 $_['error_permission']		  = 'Atenção: Você não possui permissão para modificar o módulo Moneybookers!'; 
